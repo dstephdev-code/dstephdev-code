@@ -1,5 +1,4 @@
 
-  [![](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/dstephdev/)
   [![](https://img.shields.io/badge/Kaggle-b0bdd4)](https://www.kaggle.com/dsteph)
 
 
